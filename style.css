@@ -1,0 +1,39 @@
+h1{
+    background-color: aqua;
+}
+#bottle{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+#water{
+    background-color: black;
+    color: brown;
+}
+#span1{
+    background-color: black;
+    color: white;
+}
+/*
+how to define a class in Css
+*/
+.indore{
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+.bodysection{
+    background-image: url('nature\ image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+div{
+    border-width:3px ;
+    border-color: brown;
+    border-style: solid;
+    width: 50%;
+    padding: 50px;
+    margin-top: -10px;
+    border-radius: 50px;
+    border: 5px solid  ;
+}
